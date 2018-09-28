@@ -17,5 +17,4 @@ o	Roll = 4: 20% chance of reroll
 o	Roll = 5: 5% chance of reroll
 o	Roll = 6: 0% chance of reroll
 •	The computer or user cannot reroll if they do not have any rerolls left
-
 Your job is to both write tests and debug issues in this solution.
