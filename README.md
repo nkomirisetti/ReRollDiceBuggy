@@ -1,5 +1,6 @@
 # ReRollDice
 A dice game with a user playing against a computer.  The user first specifies how many rounds they want to play the game.  Each round is won by whoever has the highest dice roll, and each game is won by the person who wins a majority of the rounds.  Each round, before the user and the computer reveal their rolls, they are also given a chance to reroll.  In every game, the user is only allowed to reroll the number of rounds specified.  So, if a game has 5 rounds, then each player has 5 re-rolls they can use.  If both players roll the same number, then the round is settled with a 50/50 coin flip
+
 Program rules:
 •	The number of rounds must be greater than 3
 •	The number of rounds must also be an odd number
