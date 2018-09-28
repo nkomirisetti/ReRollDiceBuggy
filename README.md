@@ -11,11 +11,11 @@ Program rules:
 1.	The game cannot go past the number of rounds specified
 1.	If a player wins a round, then their win tally should go up by one
 1.	The computer rerolls at the following frequencies for each roll
-o	Roll = 1: 100% chance of reroll
-o	Roll = 2: 80% chance of reroll
-o	Roll = 3: 50% chance of reroll
-o	Roll = 4: 20% chance of reroll
-o	Roll = 5: 5% chance of reroll
-o	Roll = 6: 0% chance of reroll
-•	The computer or user cannot reroll if they do not have any rerolls left
+2.	Roll = 1: 100% chance of reroll
+2.	Roll = 2: 80% chance of reroll
+2.	Roll = 3: 50% chance of reroll
+2.	Roll = 4: 20% chance of reroll
+2.	Roll = 5: 5% chance of reroll
+2.	Roll = 6: 0% chance of reroll
+1.	The computer or user cannot reroll if they do not have any rerolls left
 Your job is to both write tests and debug issues in this solution.
