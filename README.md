@@ -6,7 +6,6 @@ A dice game with a user playing against a computer.  The user first specifies ho
 1.	The number of rounds must also be an odd number
 1.  The number of rerolls must be the same number as the number of rounds in a game
 1.	Using a reroll will deplete it
-1.	If both players get the same roll, then both players will have to reroll
 1.	The winner is whoever wins (totalRounds +1)/2 rounds first
 1.	The game cannot go past the number of rounds specified
 1.	If a player wins a round, then their win tally should go up by one
