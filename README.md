@@ -19,4 +19,4 @@ A dice game with a user playing against a computer.  The user first specifies ho
 *	Roll = 6: 0% chance of reroll
 
 
-## Your job is to both write tests and debug issues in this solution.
+## Your job is to debug issues in this solution.
