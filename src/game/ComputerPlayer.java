@@ -47,7 +47,7 @@ public class ComputerPlayer extends PlayerImpl {
 				return diceRoll;
 			}
 		case 5:
-			if (getRerollsLeft() > 0 && chance < .05) {
+			if (getRerollsLeft() > 0 && chance < .5) {
 				rerollsLeft--;
 				return getRoundAction();
 			} else {
