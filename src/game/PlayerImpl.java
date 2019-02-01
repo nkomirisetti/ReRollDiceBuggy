@@ -25,7 +25,7 @@ public class PlayerImpl implements Player {
 
 	@Override
 	public int getRerollsLeft() {
-		return rerollsLeft;
+		return 0;
 	}
 
 	@Override
