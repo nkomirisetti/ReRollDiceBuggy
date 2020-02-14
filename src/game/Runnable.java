@@ -17,8 +17,8 @@ public class Runnable {
 		Player computerPlayer = new ComputerPlayer(fairDie2);
 		
 		System.out.println("Enter how many rounds you want to play: ");
-		
-		GameController game = new GameControllerImpl(s.nextInt(), humanPlayer, computerPlayer);
+		int numRounds = s.nextInt();
+		GameController game = new GameControllerImpl(numRounds, humanPlayer, computerPlayer);
 	}
 
 }
